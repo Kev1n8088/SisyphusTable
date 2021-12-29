@@ -3,4 +3,4 @@ The goal is to make a Sisyphus table. A Sisyphus table is a mechanism that works
 
 Demonstration: https://www.youtube.com/watch?v=B2teMJ4yN_Y
 
-![Demo Animation](../assets/image1.jpg?raw=true)
+![Demo Animation](../assets/image5.jpg?raw=true)
